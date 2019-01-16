@@ -1,1 +1,1 @@
-from components import parse_url, parse_file, parse
+from components import parse_url, parse_file
